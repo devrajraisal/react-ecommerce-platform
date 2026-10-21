@@ -1,5 +1,7 @@
 # ShopEase
 
+**Live demo:** https://devrajraisal.github.io/react-ecommerce-platform/
+
 A demo e-commerce storefront built with React, Redux Toolkit, and React Router. Browse a small catalog, search and filter it, open product pages, save items to a wishlist, and manage a cart with shipping and totals.
 
 This is a front end portfolio project. There is no backend, no real payment, and no real inventory. The checkout button is disabled on purpose.
